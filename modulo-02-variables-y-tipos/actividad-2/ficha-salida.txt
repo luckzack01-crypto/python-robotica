@@ -1,0 +1,5 @@
+nombre Ur phone lingling <class 'str'>
+ruedas 24 <class 'int'>
+diametro_ruedas 3.14 <class 'float'>
+bateria 100 <class 'int'>
+encendido True <class 'bool'>
