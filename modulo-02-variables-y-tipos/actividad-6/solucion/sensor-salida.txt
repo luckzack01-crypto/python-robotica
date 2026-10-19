@@ -1,0 +1,2 @@
+distancia_texto <class 'str'>
+distancia_texto <class 'float'>
