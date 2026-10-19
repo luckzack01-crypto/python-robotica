@@ -1,2 +1,5 @@
-distancia_texto <class 'str'>
-distancia_texto <class 'float'>
+distancia_texto 45 <class 'str'>
+distancia 45.0 <class 'float'>
+NOMBRE_SENSOR distancia <class 'str'>
+UNIDAD cm <class 'str'>
+bateria 80 <class 'int'>
