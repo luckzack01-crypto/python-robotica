@@ -1,0 +1,8 @@
+yehao@YEs-MacBook-Air python-robotica % /usr/local/bin/python3 /Users/yehao/Documents/GitHub/python-robotica/modulo-02-variables-y
+-tipos/actividad-8/solucion/depuracion.py
+  File "/Users/yehao/Documents/GitHub/python-robotica/modulo-02-variables-y-tipos/actividad-8/solucion/depuracion.py", line 3
+    print hao
+    ^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+
+sale error porque no se le ha puesto el paréntesis y les comillas
