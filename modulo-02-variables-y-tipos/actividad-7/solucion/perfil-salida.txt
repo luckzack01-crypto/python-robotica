@@ -1,0 +1,5 @@
+nombre Hao <class 'str'>
+anio 4 <class 'int'>
+altura_cm 6.5 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.0 <class 'str'>
