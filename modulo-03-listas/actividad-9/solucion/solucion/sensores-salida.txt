@@ -1,0 +1,2 @@
+ores.py
+('ultrasonidos', 'infrarrojos', 'luz', 'temperatura')
