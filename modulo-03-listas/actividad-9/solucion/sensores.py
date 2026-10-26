@@ -1,3 +1,3 @@
 sensores = "ultrasonidos", "infrarrojos", "luz", "temperatura"
 
-print(sensores)
+print(sensores, type(sensores))

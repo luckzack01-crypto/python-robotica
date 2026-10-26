@@ -1,2 +1,1 @@
-ores.py
-('ultrasonidos', 'infrarrojos', 'luz', 'temperatura')
+('ultrasonidos', 'infrarrojos', 'luz', 'temperatura') <class 'tuple'>
