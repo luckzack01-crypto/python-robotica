@@ -1,0 +1,3 @@
+ultrasonidos: 40.0 ########
+barra_infrarrojos 12.0 ##
+barra_luz 12.0 ##
